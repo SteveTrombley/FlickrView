@@ -1,7 +1,6 @@
 //
 //  SinglePhotoController.h
-//  WHOOP
-//
+//  FlickrView//
 //  Created by Steve Trombley on 9/22/15.
 //  Copyright © 2015 Steve Trombley. All rights reserved.
 //
